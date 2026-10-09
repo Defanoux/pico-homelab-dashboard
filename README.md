@@ -1,6 +1,6 @@
 # Pico Homelab Dashboard
 
-A desk display for the Raspberry Pi Pico 2 W that shows room conditions, outside weather, and (optionally) live stats from a TrueNAS server. 3D-printable case on MakerWorld: [link]
+A desk display for the Raspberry Pi Pico 2 W that shows room conditions, outside weather, and (optionally) live stats from a TrueNAS server. 3D-printable case on MakerWorld: https://makerworld.com/en/models/3413429-pico-homelab-dashboard
 
 ## Two versions
 
